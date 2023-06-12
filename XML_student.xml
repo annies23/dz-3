@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <object type="master">
+    <footballteam_player isFalse="false" />
+        <course>Economy</course>
+        <university_title>KPI</university_title>
+        <is_scholarship isFalse="false" />
+        <uni_year>1</uni_year>
+        <classes>
+            <class>International Economy</class>
+            <class>Math</class>
+            <class>English</class>
+        </classes>
+        <student_info>
+            <student firstName="Chris" lastName="Brown" studentId="1" />
+        </student_info>
+    </object>
+    <object type="bachelor">
+    <footballteam_player isTrue="true" />
+        <course>Law</course>
+        <university_title>KNU</university_title>
+        <is_scholarship isTrue="true" />
+        <uni_year>4</uni_year>
+        <classes>
+            <class>Law</class>
+            <class>History</class>
+            <class>English</class>
+        </classes>
+        <student_info>
+            <student firstName="Emma" lastName="Watson" studentId="14" />
+        </student_info>
+    </object>
+</student>
