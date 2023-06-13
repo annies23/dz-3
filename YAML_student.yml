@@ -15,7 +15,7 @@
     student_surname: Brown
     student_id: 1
     
--student:
+-student_two:
   type: bachelor
   course: law
   footballteam_player: true
@@ -30,6 +30,6 @@
     - "Math"
     - "English"
   student_info:
-    student_name: Chris
-    student_surname: Brown
-    student_id: 1
+    student_name: Emma
+    student_surname: Styles
+    student_id: 12
