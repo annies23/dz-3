@@ -1,0 +1,59 @@
+{
+    "student": 
+    [
+        {
+            "type": "master",
+            "footballteam_player": false,
+            "course": "economy",
+            "university_title": "KPI",
+            "is_scholarship": 1,
+            "uni_year": 2,
+            "classes": 
+                [
+                    "International Economy", 
+                    "Math", 
+                    "English"
+                ],
+            "science_articles": null,
+            "student_info": 
+                {
+                    "student_name": "Chris",
+                    "student_surname": "Brown",
+                    "student_id": 1
+                }
+        },
+        {
+            "type": "bachelor",
+            "footballteam_player": true,
+            "course": "law",
+            "university_title": "KNU",
+            "is_scholarship": 0,
+            "uni_year": 3,
+            "classes": 
+                [
+                    "International Law", 
+                    "History", 
+                    "English"
+                ],
+            "science_articles": 
+                [
+                    {
+                        "journal": "Law & Order",
+                        "article_title": "Make Law not Force",
+                        "article_id": 345
+                    },
+                    {
+                        "journal": "Law & Order",
+                        "article_title": "May Law Be With You",
+                        "article_id": 564
+                    }
+                ],
+            "student_info": 
+                {
+                    "student_name": "Emma",
+                    "student_surname": "Styles",
+                    "student_id": 2
+                }
+        }
+    ]
+}

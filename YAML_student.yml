@@ -1,0 +1,35 @@
+-student:
+  type: master
+  course: economy
+  footballteam_player: false
+  university_title: KPI
+  uni_year: 2
+  is_scholarship: false
+  science_articles: null
+  classes: 
+    - "International Economy"
+    - "Math"
+    - "English"
+  student_info:
+    student_name: Chris
+    student_surname: Brown
+    student_id: 1
+    
+-student_two:
+  type: bachelor
+  course: law
+  footballteam_player: true
+  university_title: KNU
+  uni_year: 4
+  is_scholarship: true
+  science_articles: 
+    - "Article One"
+    - "Article Two"
+  classes: 
+    - "International Economy"
+    - "Math"
+    - "English"
+  student_info:
+    student_name: Emma
+    student_surname: Styles
+    student_id: 12
